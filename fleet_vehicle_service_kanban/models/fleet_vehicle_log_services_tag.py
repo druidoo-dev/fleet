@@ -5,7 +5,6 @@ from odoo import fields, models
 
 
 class FleetVehicleLogServicesTag(models.Model):
-
     _name = "fleet.vehicle.log.services.tag"
     _description = "Services Tags"
 
