@@ -7,7 +7,7 @@
     "category": "Human Resources/Fleet",
     "author": "Druidoo, Odoo Community Association (OCA)",
     "maintainers": ["mamcode", "ivantodorovich"],
-    "development_status": "Beta",
+    "development_status": "Stable",
     "website": "https://www.druidoo.io/",
     "license": "AGPL-3",
     "version": "13.0.1.0.0",
